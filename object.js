@@ -1,8 +1,8 @@
 const user = {
-    userName: "Ahad",
+    userName: "Abdul Ahad",
     age: 25,
     favouriteFruits: ["mango", "banana", "orange"],
-    getData: function(){
+    getData: function () {
         console.log(this.userName);
     }
 }
