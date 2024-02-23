@@ -16,6 +16,6 @@
 
 ### Youtube tutorial
 
-- Object and Function : https://youtu.be/pN-Qmv4zBcI?si=DWIUEFRC8qpAHv1H
+- Object and Constructor function : https://youtu.be/pN-Qmv4zBcI?si=DWIUEFRC8qpAHv1H
 - New keyword and Prototype : https://youtu.be/uMI5cNeHTOc?si=BA6lANiN7aaKTBav
 - Call and This : https://youtu.be/-owpuf4lbyU?si=wNGFqMia4DqfSLje
